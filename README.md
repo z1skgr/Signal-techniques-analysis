@@ -22,7 +22,7 @@
 1)Windowing. <br />
 2)Gibbs phenomenon. <br />
 3)Other windows. <br />
-	a)Rectangular. <br />
-	b)Hamming. <br />
-	c)Hanning. <br />
-	d)Blackman. <br />
+	3.a)Rectangular. <br />
+	3.b)Hamming. <br />
+	3.c)Hanning. <br />
+	3.d)Blackman. <br />
